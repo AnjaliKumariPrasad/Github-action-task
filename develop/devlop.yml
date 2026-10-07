@@ -2,4 +2,4 @@ on:
  push:
   develop:
    -feature/user-api
-   -feature/auth
+   
